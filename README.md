@@ -1,0 +1,1 @@
+# terraform_win_vm_join_activedirectory
